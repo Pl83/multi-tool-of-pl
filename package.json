@@ -1,7 +1,7 @@
 {
   "name": "multi_tool_of_pl",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Some function that i consider usefull for my projects",
   "main": "index.js",
   "type": "module",
   "scripts": {
